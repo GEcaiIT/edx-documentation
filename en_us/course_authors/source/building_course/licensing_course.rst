@@ -108,7 +108,7 @@ Options`.
 .. _Learners View of Licenses:
 
 *************************************
-Learners View of Licenses
+Learners' View of Licenses
 *************************************
 
 While taking your course, learners can see the licenses you set for course

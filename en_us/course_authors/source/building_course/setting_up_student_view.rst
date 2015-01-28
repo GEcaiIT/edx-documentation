@@ -338,7 +338,8 @@ Set Content Licensing
 ************************************************
 
 When you :ref:`create a course <Create a New Course>`, you set the default
-licensing information. You can change the default setting in the **Schedule &
+licensing information for the course and videos. You can also set the default
+licensing information for content and videos in your course in the **Schedule &
 Details** page.
 
 .. image:: ../Images/course_license.png
@@ -355,11 +356,10 @@ Details** page.
 
   See :ref:`Licensing a Course` for more information about license options.
 
-  The license options you select control the copyright notice students see in
-  the courseware.
-
-  You can also change the license for each video in the course. See :ref:`Video
-  Advanced Options` for more information.
+  The license options that you select apply to all course content including
+  videos, unless you explicitly specify different licensing options for your
+  videos. For details about specifying licensing options for each video in the
+  course, see :ref:`Video Advanced Options`.
 
 .. _A Template For Course Overview:
 

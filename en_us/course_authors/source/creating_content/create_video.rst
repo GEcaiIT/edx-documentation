@@ -318,9 +318,9 @@ The following options appear on the **Advanced** tab in the video component.
         * Select **All Rights Reserved** to indicate to students that you own
           the copyright for the video.
 
-        * Select **Creative Commons** to grant others to right to share and use
-          the video. You must then select the Creative Commons license options
-          to apply:
+        * Select **Creative Commons** to grant others the right to share and
+          use the video. You must then select the Creative Commons license
+          options to apply:
 
           .. image:: ../Images/creative-commons-license-course.png
             :alt: The Creative Commons license options

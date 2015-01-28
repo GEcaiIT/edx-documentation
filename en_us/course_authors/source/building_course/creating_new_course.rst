@@ -68,12 +68,12 @@ Create a New Course
     that you define for the course. See :ref:`Set Important Dates for Your
     Course` for more information.
 
-4. Set the default licensing information for the course:
+4. Set the default licensing information for the course.
 
-  * Select **All Rights Reserved** to indicate to students that you own the
+  * Select **All Rights Reserved** to indicate to learners that you own the
     copyright for course content.
 
-  * Select **Creative Commons** to grant others to right to share and use
+  * Select **Creative Commons** to grant learners the right to share and use
     course content. You must then select the Creative Commons license options
     to apply:
 
@@ -82,14 +82,13 @@ Create a New Course
 
     See :ref:`Licensing a Course` for more information about license options.
 
-  The license options you select control the copyright notice students see in
-  the courseware.
+  The license options that you select apply to all course content including
+  videos, unless you explicitly specify different licensing options for your
+  videos. For details about specifying licensing options for each video in the
+  course, see :ref:`Video Advanced Options`.
 
   You can :ref:`change the default content license <Set Content Licensing>` in
   the **Settings & Details** page.
-
-  You can also set the license for each video in the course. See :ref:`Video
-  Advanced Options` for more information.
 
 5. Click **Save.**
 

@@ -311,7 +311,9 @@ The following options appear on the **Advanced** tab in the video component.
         edX to process and host video files.
     
     * - **License**
-      - Set the licensing for the video:
+      - Optionally, you can set the license for the video, if you want to
+        release the video with a license different from that of the overall
+        course license.
 
         * Select **All Rights Reserved** to indicate to students that you own
           the copyright for the video.

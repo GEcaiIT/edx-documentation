@@ -117,7 +117,8 @@ content and videos.
 For all course content, learners see the license you set in COMPLETE WHEN LMS
 FIXED.
 
-For each video, learners see the license at the bottom right of the video player:
+For each video, learners see the license at the bottom right of the video
+player:
 
 .. image:: ../Images/learner_video_license.png
  :alt: A video with a pointer to the license

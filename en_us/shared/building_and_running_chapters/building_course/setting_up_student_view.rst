@@ -271,9 +271,9 @@ in the student dashboard.
 #. View your dashboard to test how the image will appear to students.
 
 .. note:: On edX.org_, the course image you add in Studio is used on the student
-   dashboard, but does not appear on the course summary page automatically. You
-   must work directly with your edX program manager to set up the **About** page
-   assets and course image for the course summary page.
+   dashboard, but does not automatically appear on the course summary page. Work
+   directly with your edX program manager to set up the **About** page assets
+   and course image for the course summary page.
 
 .. _Add a Course Video:
 

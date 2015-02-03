@@ -149,12 +149,12 @@ already graded the inappropriate response, it is counted as one of the
 submissions they have graded.
 
 .. note:: After you remove an inappropriate response from peer assessment, you
-   can choose whether the student who submitted that response is allowed to
-   submit a new response. If you allow the student to submit a replacement
-   response, the student state of the problem is reset. If you do not want to
-   allow the student to submit a replacement response, she receives a grade of
-   zero for each criterion in the assessment and a total grade of zero for the
-   entire submission.
+   decide whether the student who submitted that response is allowed to submit a
+   replacement response. If you do not want to allow the student to submit a
+   replacement response, you do not need to take any additional action. The
+   student receives a grade of zero for the entire submission To allow the
+   student to resubmit a response for a cancelled submission, :ref:`reset the
+   student's attempts for the problem<reset_attempts>`.
 
 Remove a submission from peer assessment by completing these steps.
 

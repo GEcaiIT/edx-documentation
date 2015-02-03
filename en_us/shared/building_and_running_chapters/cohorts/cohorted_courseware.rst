@@ -137,10 +137,23 @@ Groups`.
 On the Instructor Dashboard, you associate each content group with one or more
 cohorts. For details, see :ref:`Associate Cohorts with Content Groups`.
 
-.. note:: Once a content group is created, you cannot delete it. You can remove
-   the association between a content group and its cohorts by changing the
-   association to **Not Selected**.
 
+*********************
+Delete Content Groups
+*********************
+
+.. note:: You can delete a content group only if it is not in use in any course
+   unit. To delete a content group that is currently in use, remove it from use
+   in any visibility settings in a course unit before you can delete it.
+
+#. In Studio, select **Settings**, then select **Group Configurations**.
+ 
+#. On the **Group Configurations** page, locate the content group that you want to delete.
+   
+#. Hover over the content group's box, then click the **Delete** icon.
+
+#. In the confirmation message, click **Delete** again to confirm the deletion.
+   
 
 .. _Specify Components in Courseware as Visible Only to Certain Content Groups:
 

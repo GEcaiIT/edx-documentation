@@ -24,7 +24,7 @@ A
 
   The course page that provides potential students with a course summary, prerequisites, a course video and image, and important dates.
 
-  See :ref:`The Course Summary Page` for more information.
+  See :ref:`Describe Your Course` for more information.
 
 .. _Advanced Editor_g:
  

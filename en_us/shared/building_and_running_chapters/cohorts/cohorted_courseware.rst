@@ -143,17 +143,40 @@ Delete Content Groups
 *********************
 
 .. note:: You can delete a content group only if it is not in use in any course
-   unit. To delete a content group that is currently in use, remove it from use
-   in any visibility settings in a course unit before you can delete it.
+   unit. To delete a content group that is currently in use, you must first
+   remove it from any course unit visibility settings that use the content
+   group. For information on seeing which units use a content group, see
+   :ref:`View Usage of a Content Group`.
 
 #. In Studio, select **Settings**, then select **Group Configurations**.
  
-#. On the **Group Configurations** page, locate the content group that you want to delete.
+#. On the **Group Configurations** page, locate the content group that you want
+   to delete.  
    
 #. Hover over the content group's box, then click the **Delete** icon.
 
 #. In the confirmation message, click **Delete** again to confirm the deletion.
+
+
+.. _View Usage of a Content Group:
+
+*************************************
+View Usage of a Content Group
+*************************************
+
+To view the units that a content group is used in, follow these steps:
+
+#. In Studio, select **Settings**, then select **Group Configurations**.
+ 
+#. On the **Group Configurations** page, locate the content group for which you
+   want to view the usage.
    
+#. The content group's box displays whether the content group is in use in this
+   course. If it is in use, you see the number of units that it is used in, and
+   links to each unit.
+   
+.. True that there are links to the units? Need to verify on sandbox   
+      
 
 .. _Specify Components in Courseware as Visible Only to Certain Content Groups:
 
@@ -318,3 +341,5 @@ selected content group would see it.
 After your course is live, you can also see the live version as a student would
 see it, by clicking **View Live** from Studio. For more information, see
 :ref:`View Your Live Course`.
+
+

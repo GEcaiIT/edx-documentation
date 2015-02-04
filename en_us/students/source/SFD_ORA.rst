@@ -6,7 +6,7 @@ Open Response Assessments
 
 In an open response assessment, you provide written responses to questions that
 might not have simple or definitive answers. For some open response assessments,
-you can submit an image to accompany your written response.
+you can submit an image to accompany a written response.
 
 Open response assessments can include a peer assessment, a self assessment, or
 both. With a peer assessment, you assess, or grade, responses that several of
@@ -75,10 +75,9 @@ Read each question carefully. Some instructors include important information in
 the question, such as how long a response must be, or specific topics your
 response must cover.
 
-.. note:: Your response must contain fewer than 10,000 words (approximately the
-   equivalent of 20 pages of 8.5x11 paper, with text single-spaced).
-
-..does this limit change with multiple short answers?
+.. note:: The total word count for all responses within the assessment cannot be
+   more than 10,000 words (approximately the equivalent of 20 pages of 8.5x11
+   paper, with text single-spaced).
 
 For each question, type your response into the field under **Your Response**.
 When you have completed responses for all the questions, click **Submit your
@@ -117,7 +116,12 @@ Submit an Image with Your Response
 ***********************************
 
 Some assignments ask you to submit an image with your text response. If you can
-submit an image, you'll see buttons that you'll use to upload your image.
+submit an image, you will see buttons that you use to upload your image. You can
+only upload one image in each response, and your response must include some text
+along with the image. You cannot submit a response that does not contain any
+text.
+
+.. note:: The image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
 
 .. image:: /Images/PA_Upload_ChooseFile.png 
    :alt: Open response assessment example with Choose File and Upload Your Image buttons circled
@@ -129,17 +133,14 @@ To upload your image, complete these steps.
 #. In the dialog box that opens, select the file that you want, and then click **Open**.
 #. When the dialog box closes, click **Upload Your Image**.
 
-.. note:: The image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
-
 Your image appears below the response field, and the name of the image file
 appears next to the **Choose File** button. If you want to change the image,
-follow steps 1-3 again. You can only upload one image.
+follow steps 1-3 again. You can only upload one image per response.
 
 .. image:: /Images/PA_Upload_WithImage.png
    :alt: Example response with an image of Paris
    :width: 500
 
-.. note:: You must submit text as well as your image in your response. You can't submit a response that doesn't contain text.
 
 ============================
 Learn to Assess Responses

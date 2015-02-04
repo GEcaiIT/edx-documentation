@@ -146,18 +146,18 @@ cohorts. For details, see :ref:`Associate Cohorts with Content Groups`.
 View Usage of a Content Group
 *************************************
 
-To view the units that a content group is used in, follow these steps.
+To view the units that are visible to a content group, follow these steps.
 
 #. In Studio, select **Settings**, then select **Group Configurations**.
  
-   On the **Group Configurations** page, locate the content group for which you
+#. On the **Group Configurations** page, locate the content group for which you
    want to view the usage.
    
-#. The content group's box displays whether the content group is used in this
+   The content group's box displays whether the content group is used in this
    course. If it is used, you see the number of units that it is used in, and
    links to each unit.
 
-   Click each link to go to that unit in the **Course Outline**, where you can
+#. Click each link to go to that unit in the **Course Outline**, where you can
    :ref:`specify whether that unit is visible to the content group<Specify
    Components in Courseware as Visible Only to Certain Content Groups>`.
 
@@ -184,7 +184,8 @@ Delete Content Groups
 #. On the **Group Configurations** page, locate the content group that you want
    to delete.  
    
-#. Hover over the content group's box, then click the **Delete** icon.
+#. Move your cursor over the content group's box, then click the **Delete**
+   icon.
 
 #. In the confirmation message, click **Delete** again to confirm the deletion.
       

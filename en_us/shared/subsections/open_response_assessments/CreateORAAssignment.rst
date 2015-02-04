@@ -71,11 +71,6 @@ field.
 Allow Students to Submit Images (optional)
 ============================================
 
-.. note:: You can only allow students to submit images in open response
-   assessments consisting of a single prompt. Open response assessments with
-   multiple prompts do not support uploading of images.
-
-.. UI does not prevent specifying that images are allowed for ORA problems with multiple prompts. It would be ideal to manage this in the UI rather than have an error when students attempt this.
 
 To allow students to submit an image with a response, complete these steps.
 
@@ -90,7 +85,7 @@ To allow students to submit an image with a response, complete these steps.
      students submit.  Images are not visible in the body of the assignment in
      the courseware, and they are not included in the course data package.
    * You can allow students to upload an image, but you cannot require it.
-   * Students can only submit one image with a response.     
+   * Students can only submit one image with each response.     
    * All responses must contain text. Students cannot submit a response that
      contains only an image.
 

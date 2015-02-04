@@ -67,12 +67,10 @@ Prompts
 
 Each **prompt**, or question, that you want your students to answer, appears
 near the top of the page, followed by a field where the student enters a
-response. You can require your students to enter text as a response, or, for
-open response assessments with only a single prompt, you can allow your students
-to both enter text and upload an image. 
+response. You can require your students to enter text as a response, or you can
+allow your students to both enter text and upload an image.
 
-.. note:: In open response assessments with multiple prompts, students cannot
-   upload images. If students upload an image, the image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
+.. note:: If students upload an image, the image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_QandRField.png
    :width: 500
@@ -86,19 +84,16 @@ approximate number of words or sentences that their response should have.
 .. note:: The total word count for all responses in an ORA assignment is limited
    to 10,000 words.
 
-
 For more information, see :ref:`PA Add Prompt`.
+
 
 ==========================================
 Asking Students to Upload Images
 ==========================================
 
-.. note:: In open response assessments with multiple prompts, students cannot
-   upload images.
 
-In open response assessments with single prompts, you can ask your students to
-upload an image as part of their response. If you do this, however, keep the
-following in mind:
+In open response assessments, you can ask your students to upload an image as
+part of their response. If you do this, however, keep the following in mind:
 
 * Currently, you cannot require your students to upload an image. You can only
   allow it.
@@ -106,7 +101,7 @@ following in mind:
 * All responses must include some text. Students cannot submit a response that
   contains only an image.
 
-* Students can submit only one image with their response. 
+* Students can submit only one image with each response.
 
 .. note:: Currently, course teams cannot see any of the images that students
    submit. Images are not visible in the body of the assignment in the

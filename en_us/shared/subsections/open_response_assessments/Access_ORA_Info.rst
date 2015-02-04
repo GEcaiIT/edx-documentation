@@ -152,7 +152,7 @@ submissions they have graded.
    decide whether the student who submitted that response is allowed to submit a
    replacement response. If you do not want to allow the student to submit a
    replacement response, you do not need to take any additional action. The
-   student receives a grade of zero for the entire submission To allow the
+   student receives a grade of zero for the entire submission. To allow the
    student to resubmit a response for a cancelled submission, :ref:`reset the
    student's attempts for the problem<reset_attempts>`.
 
@@ -171,18 +171,23 @@ Remove a submission from peer assessment by completing these steps.
    
 #. Scroll down to the **Student Response** section and locate the submission you
    want to remove.
+
+.. image:: ../../Images/ORA_RemoveSubmission.png
+   :alt: Dialog allowing comments to be entered when removing a student submission
    
-#. Enter a comment to document or explain the removal. This comment appears to
+5. Enter a comment to document or explain the removal. This comment appears to
    the student when she views her response in the open response assessment
    problem.
    
 #. Click **Remove submission**. 
 
-   The inappropriate submission is removed from the pool of submissions
-   available for peer assessment. The date and time of the removal displays
-   instead of the student response, as well as the comment you entered.
+   The inappropriate submission is removed from peer assessment. When you access
+   this student's information again, instead of the response, you see a note
+   showing the date and time that the submission was removed, and the comments
+   that you entered.
    
-
+.. image:: ../../Images/ORA_RemovedComments.png
+   :alt: The date, time and comment for removal of a student response is shown instead of the original response.  
 
 
 

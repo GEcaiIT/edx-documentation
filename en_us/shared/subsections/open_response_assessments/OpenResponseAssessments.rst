@@ -11,9 +11,8 @@ Introduction to Open Response Assessments
 Open response assessments allow instructors to assign questions that might not
 have definite answers, such as text responses or short essays. Students submit
 responses to questions, then each student and the student's peers compare the
-responses to rubrics that you create. In open response assessments with only a
-single prompt, you can also allow students to upload an image to accompany the
-text response.
+responses to a rubric that you create. You can also allow students to upload an
+image to accompany a text response.
 
 Open response assessments include peer assessments and self assessments. In peer
 assessments, students compare their peers' responses to a rubric that you
@@ -76,7 +75,6 @@ allow your students to both enter text and upload an image.
    :width: 500
    :alt: Single ORA question and its corresponding blank response field
 
-
 When you write each question, you can include helpful information for your
 students, such as what they can expect after they submit responses, or the
 approximate number of words or sentences that their response should have. 
@@ -93,7 +91,8 @@ Asking Students to Upload Images
 
 
 In open response assessments, you can ask your students to upload an image as
-part of their response. If you do this, however, keep the following in mind:
+part of their response. If you do this, however, keep the following points in
+mind:
 
 * Currently, you cannot require your students to upload an image. You can only
   allow it.

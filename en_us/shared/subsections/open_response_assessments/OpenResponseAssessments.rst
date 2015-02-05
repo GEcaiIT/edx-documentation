@@ -285,7 +285,9 @@ To calculate the final score, add the median scores for each criterion:
 
   **Ideas median (8/10) + Content median (8/10) + Grammar median (4/5) = final score (20/25)**
 
-Note, again, that final scores are calculated by criteria, not by individual assessor. Thus the response's score is not the median of the scores that each individual peer assessor gave the response.
+.. note:: Remember that final scores are calculated by criteria, not by
+   individual assessor. The response's score is not the median of the scores
+   that each individual peer assessor gave the response.
 
 For information on grades for student submissions that you have cancelled and
 removed from peer assessment, refer to :ref:`Remove a student response from peer

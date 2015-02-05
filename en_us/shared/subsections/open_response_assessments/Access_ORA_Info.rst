@@ -20,7 +20,8 @@ assignment, and then click the black **Course Staff Information** banner.
 View Metrics for Individual Steps
 ************************************************
 
-You can check the number of students who have completed, or are currently working through, the following steps:
+You can check the number of students who have completed, or are currently
+working through, the following steps:
 
 * Submitted responses.
 * Completed peer assessments.
@@ -47,8 +48,13 @@ You can access information about an individual student's performance on a peer
 assessment assignment, including:
 
 * The student's response. 
-* The peer assessments that other students performed on the student's response, including feedback on individual criteria and on the overall response.
-* The peer assessments that the student performed on other students' responses, including feedback on individual criteria and on the overall responses.
+  
+* The peer assessments that other students performed on the student's response,
+  including feedback on individual criteria and on the overall response.
+  
+* The peer assessments that the student performed on other students' responses,
+  including feedback on individual criteria and on the overall responses.
+  
 * The student's self assessment.
 
 In the following example, you can see the student's response. The response
